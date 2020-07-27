@@ -1,15 +1,15 @@
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ifgyong&repo=iOSDataFactory&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ifgyong&repo=flutter_easyHub&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ifgyong&repo=demo&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ifgyong&repo=flutter-example&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ifgyong&repo=flutter-guide&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ifgyong&repo=iOSDataFactory&theme=tokyonight)](https://github.com/ifgyong/iOSDataFactory)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ifgyong&repo=flutter_easyHub&theme=radical)](https://github.com/ifgyong/flutter_easyHub)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ifgyong&repo=demo&theme=radical)](https://github.com/ifgyong/demo)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ifgyong&repo=flutter-example&theme=tokyonight)](https://github.com/ifgyong/flutter-example)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ifgyong&repo=flutter-guide&theme=tokyonight)](https://github.com/ifgyong/flutter-guide)
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ifgyong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ifgyong&theme=tokyonight)](https://github.com/ifgyong/ifgyong)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ifgyong&theme=tokyonight&hide=c,c%2B%2B)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ifgyong&theme=tokyonight&hide=c,c%2B%2B)](https://github.com/ifgyong/ifgyong)
 
 
 <!--
