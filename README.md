@@ -1,6 +1,8 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ifgyong&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ifgyong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ifgyong&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ifgyong&theme=tokyonight&hide=c++,c)](https://github.com/anuraghazra/github-readme-stats)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ifgyong&repo=flutter_easyHub&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
