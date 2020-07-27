@@ -9,9 +9,9 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ifgyong&repo=flutter_simple_record_and_player)](https://github.com/ifgyong/flutter_simple_record_and_player)
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ifgyong)](https://github.com/ifgyong/ifgyong)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ifgyong&show_icons=true)](https://github.com/ifgyong/ifgyong)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ifgyong&hide=c,c%2B%2B)](https://github.com/ifgyong/ifgyong)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ifgyong&hide=c,c%2B%2B&)](https://github.com/ifgyong/ifgyong)
 
 
 <!--
