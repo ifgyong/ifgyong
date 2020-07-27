@@ -5,6 +5,8 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ifgyong&repo=demo&theme=radical)](https://github.com/ifgyong/demo)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ifgyong&repo=flutter-example&theme=tokyonight)](https://github.com/ifgyong/flutter-example)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ifgyong&repo=flutter-guide&theme=tokyonight)](https://github.com/ifgyong/flutter-guide)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ifgyong&repo=flutter_custom_calendar&theme=radical)](https://github.com/ifgyong/flutter_custom_calendar)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ifgyong&repo=flutter_simple_record_and_player&theme=radical)](https://github.com/ifgyong/flutter_simple_record_and_player)
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ifgyong&theme=tokyonight)](https://github.com/ifgyong/ifgyong)
