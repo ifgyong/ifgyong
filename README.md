@@ -1,9 +1,12 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ifgyong&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ifgyong&theme=tokyonight&hide=c++,Dart,Python,Objective-c)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ifgyong&theme=tokyonight&hide=c,c%2B%2B)](https://github.com/anuraghazra/github-readme-stats)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ifgyong&repo=iOSDataFactory&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ifgyong&repo=flutter_easyHub&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ifgyong&repo=demo&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ifgyong&repo=flutter-example&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ifgyong&repo=flutter-guide&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
