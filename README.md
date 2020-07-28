@@ -1,5 +1,5 @@
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ifgyong&repo=iOSDataFactory&show_owner=true&title_color=50DA8B&icon_color=50DA8B)](https://github.com/ifgyong/iOSDataFactory)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ifgyong&repo=flutter_easyHub&show_owner=true&title_color=50DA8B&icon_color=50DA8B)](https://github.com/ifgyong/flutter_easyHub)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ifgyong&repo=iOSDataFactory&show_owner=true&title_color=50DA8B&icon_color=50DA8B)](https://github.com/ifgyong/iOSDataFactory)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ifgyong&repo=demo&show_owner=true&title_color=46BAEB&icon_color=46BAEB)](https://github.com/ifgyong/demo)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ifgyong&repo=flutter-example&show_owner=true&title_color=46BAEB&icon_color=46BAEB)](https://github.com/ifgyong/flutter-example)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ifgyong&repo=flutter-guide&show_owner=true&title_color=F8854D&icon_color=F8854D)](https://github.com/ifgyong/flutter-guide)
@@ -13,6 +13,9 @@ F8854D 粉红色
 F8CE04  黄色
 -->
 
+|公众号|掘金|
+|:-:|:-:|
+|[fgyong开发日记](#)|[✈️直达掘金](https://juejin.im/user/5693a77b60b2c2974cdd7f7f)|
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ifgyong&show_icons=true)](https://github.com/ifgyong/ifgyong)
 
