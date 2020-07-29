@@ -15,7 +15,7 @@ F8CE04  黄色
 
 |公众号|掘金|
 |:-:|:-:|
-|[fgyong开发日记](#)|[✈️直达掘金](https://juejin.im/user/5693a77b60b2c2974cdd7f7f)|
+|[fgyong开发日记](wechat.md)|[✈️直达掘金](https://juejin.im/user/5693a77b60b2c2974cdd7f7f)|
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ifgyong&show_icons=true)](https://github.com/ifgyong/ifgyong)
 
