@@ -19,7 +19,8 @@ F8CE04  黄色
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ifgyong&show_icons=true)](https://github.com/ifgyong/ifgyong)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ifgyong&hide=c,c%2B%2B&HTML)](https://github.com/ifgyong/ifgyong)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ifgyong&hide=c,c%2B%2B&HTML)](https://github.com/ifgyong/ifgyong)
+-->
 
 
 <!--
