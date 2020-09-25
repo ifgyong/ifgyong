@@ -5,6 +5,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ifgyong&repo=flutter-guide&show_owner=true&title_color=F8854D&icon_color=F8854D)](https://github.com/ifgyong/flutter-guide)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ifgyong&repo=flutter_custom_calendar&show_owner=true&title_color=F8854D&icon_color=F8854D)](https://github.com/ifgyong/flutter_custom_calendar)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ifgyong&repo=flutter_simple_record_and_player&show_owner=true&title_color=F8CE04&icon_color=F8CE04)](https://github.com/ifgyong/flutter_simple_record_and_player)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ifgyong&repo=flutter_qq_bubble&show_owner=true&title_color=F8CE04&icon_color=F8CE04)](https://github.com/ifgyong/flutter__qq_bubble)
 
 <!--
 50DA8B  青色
